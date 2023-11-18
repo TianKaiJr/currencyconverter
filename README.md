@@ -1,2 +1,3 @@
 # minihack
- 
+not completed
+
